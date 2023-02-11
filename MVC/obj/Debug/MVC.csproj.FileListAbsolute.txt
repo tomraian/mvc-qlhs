@@ -1,0 +1,12 @@
+D:\winform\MVC\MVC\bin\Debug\app_data\qlhs.mdf
+D:\winform\MVC\MVC\bin\Debug\app_data\qlhs_log.ldf
+D:\winform\MVC\MVC\bin\Debug\MVC.exe.config
+D:\winform\MVC\MVC\bin\Debug\MVC.exe
+D:\winform\MVC\MVC\bin\Debug\MVC.pdb
+D:\winform\MVC\MVC\obj\Debug\MVC.csproj.AssemblyReference.cache
+D:\winform\MVC\MVC\obj\Debug\MVC.Properties.Resources.resources
+D:\winform\MVC\MVC\obj\Debug\MVC.csproj.GenerateResource.cache
+D:\winform\MVC\MVC\obj\Debug\MVC.csproj.CoreCompileInputs.cache
+D:\winform\MVC\MVC\obj\Debug\MVC.exe
+D:\winform\MVC\MVC\obj\Debug\MVC.pdb
+D:\winform\MVC\MVC\obj\Debug\MVC.Form1.resources
